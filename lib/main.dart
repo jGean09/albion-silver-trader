@@ -60,15 +60,15 @@ class _OrderFormScreenState extends State<OrderFormScreen> {
 ▪ *Data de Entrega:* ${_deliveryDate.day}/${_deliveryDate.month}/${_deliveryDate.year}
 
 ℹ️ *INSTRUÇÕES:*
-1. Efetue o PIX para a chave: (SUA_CHAVE_PIX)
+1. Efetue o PIX para a chave: (70632376406 - José Gean de Macêdo Alves)
 2. Envie o comprovante por aqui
 3. Aguarde a confirmação
 
-⏳ *Entrega em até 30 minutos após confirmação*
+⏳ *Entrega em até 1 dia após confirmação*
       ''';
 
       final phoneNumber =
-          _testMode ? _testPhoneController.text : '558499606635';
+          _testMode ? _testPhoneController.text : '5584996066735';
       final whatsappUrl =
           'https://wa.me/$phoneNumber?text=${Uri.encodeComponent(message)}';
 
