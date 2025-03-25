@@ -36613,8 +36613,8 @@ g=m.w
 f=m.f.a.a
 e=A.ho(f,null)
 d=m.x
-l="\u2705 *NOVO PEDIDO DE PRATA - ALBION ONLINE* \u2705\n\n\u25aa *Personagem:* "+h+"\n\u25aa *Servidor:* "+g+"\n\u25aa *Quantidade:* "+f+"m\n\u25aa *Valor Total:* R$ "+e*2+"\n\u25aa *Data de Entrega:* "+A.ce(d)+"/"+A.bg(d)+"/"+A.b0(d)+"\n\n\u2139\ufe0f *INSTRU\xc7\xd5ES:*\n1. Efetue o PIX para a chave: (SUA_CHAVE_PIX)\n2. Envie o comprovante por aqui\n3. Aguarde a confirma\xe7\xe3o\n\n\u23f3 *Entrega em at\xe9 30 minutos ap\xf3s confirma\xe7\xe3o*\n      "
-k=m.z?m.r.a.a:"558499606635"
+l="\u2705 *NOVO PEDIDO DE PRATA - ALBION ONLINE* \u2705\n\n\u25aa *Personagem:* "+h+"\n\u25aa *Servidor:* "+g+"\n\u25aa *Quantidade:* "+f+"m\n\u25aa *Valor Total:* R$ "+e*2+"\n\u25aa *Data de Entrega:* "+A.ce(d)+"/"+A.bg(d)+"/"+A.b0(d)+"\n\n\u2139\ufe0f *INSTRU\xc7\xd5ES:*\n1. Efetue o PIX para a chave: (70632376406 - Jos\xe9 Gean de Mac\xeado Alves)\n2. Envie o comprovante por aqui\n3. Aguarde a confirma\xe7\xe3o\n\n\u23f3 *Entrega em at\xe9 1 dia ap\xf3s confirma\xe7\xe3o*\n      "
+k=m.z?m.r.a.a:"5584996066735"
 j="https://wa.me/"+A.n(k)+"?text="+A.DO(2,l,B.ag,!1)
 s=7
 return A.Y(A.anS(A.kq(j,0,null)),$async$wH)
