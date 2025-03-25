@@ -36,7 +36,7 @@ class _OrderFormScreenState extends State<OrderFormScreen> {
   final _characterController = TextEditingController();
   final _silverController = TextEditingController();
   final _testPhoneController = TextEditingController(
-    text: '558499606635',
+    text: '5584996066735',
   ); // SEU NÚMERO PARA TESTES
 
   String _server = 'América';
